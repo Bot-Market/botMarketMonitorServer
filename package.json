@@ -1,0 +1,13 @@
+{
+  "name": "botmarket_monitor_server",
+  "version": "1.0.0",
+  "description": "Remote PM2 Status Monitor.",
+  "main": "server-connector.js",
+  "author": "Kirito",
+  "repository": "https://github.com/Bot-Market/botMarketMonitorServer",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "pm2": "^5.4.2"
+  }
+}
